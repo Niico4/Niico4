@@ -1,13 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Niico4.Niico4" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Nicolas+Garzón;+I'm+Frontend+Developer;+And;+Freelancer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Holaa!;+Soy+Nicolas+Garzón;+Soy+Desarrollador+Frontend;+Y;+Freelancer" />
 </h1>
-<div align="center">
-  ✔ I am currently learning web development.<br/>
-  ✔ I am focused on the frontend developer.<br/>
-  ✔ I know how to work in a team, I am a kind person.<br/>
-</div> <br/>
+
+<p align="center" >
+  Desarrollador de sitios y aplicaciones web eficientes y atractivas. Puedo ofrecer soluciones innovadoras y personalizadas según las necesidades del cliente. Actualmente, me desempeño como profesional independiente, proporcionando servicios especializados en el     
+  desarrollo web para una variedad de proyectos.
+</p>
+
+<br/>
 <div align="center"> 
   <a href="mailto:nicogarzon131@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-008000.svg?&logo=gmail&logoColor=white" />
@@ -28,18 +30,25 @@
 
 <hr/>
 
-<h2 align="center">💻 Skills 💻</h2>
-
-| **Languages** | **Frameworks** | **Tools** | **UI** | **Databases** | **UIX** |
-|---------------|----------------|-----------|--------|---------------|---------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart" /> | <img src="https://skillicons.dev/icons?i=angular,nextjs,react,flutter" /> | <img src="https://skillicons.dev/icons?i=netlify,vite" /> | <img src="https://skillicons.dev/icons?i=redux,styledcomponents,tailwind,materialui" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=ai,ps,figma" /> |`
+<h2 align="center">💻 Habilidades</h2>
+<table align="center">
+  <tr>
+    <th>Lenguajes</th>
+    <th>Frameworks</th>
+    <th>UIX</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vite,astro,styledcomponents,tailwind,materialui" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ai,ps,figma" /></td>
+  </tr>
+</table>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Estadísticas</h2>
 <br>
-<div align="center">
+<div align="center" marginRigth>
   <img width=355 src="https://github-readme-stats.vercel.app/api?username=Niico4&theme=react&rank_icon=github&hide_border=true&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Niico4&theme=react&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niico4&theme=react&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact" />
+  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niico4&theme=react&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact" />
 </div>
