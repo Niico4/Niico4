@@ -1,20 +1,37 @@
-<h1 align="center">Hi 👋, I'm Niico</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niico4&label=Profile%20views&color=0e75b6&style=flat" alt="niico4" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Soy+Nicolas+Garzón;Desarrollador+Frontend;Freelancer+y+creador+UIX" />
+<p align="left">Soy Nicolas, desarrollador de sitios y aplicaciones web eficientes y atractivas. Puedo ofrecer soluciones innovadoras y personalizadas según las necesidades del cliente. Actualmente, estoy como Freelancer, proporcionando servicios especializados en el desarrollo web para una variedad de proyectos.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niico4" alt="niico4" /></a> </p>
+<br/>
+<div align="start">
+  <a href="https://portfolio-nicolas-garzon.netlify.app/" >
+    <img src="https://img.shields.io/badge/Portfolio-000A5D.svg?&logo=todoist&logoColor=white"  />
+  </a>
+  <a href="mailto:nicogarzon131@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-008000.svg?&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nicolasgarzon131" >
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/niico_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niico_" height="30" width="40" /></a>
-</p>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<table align="star">
+  <tr>
+    <th>Lenguajes</th>
+    <th>Frameworks</th>
+    <th>UIX</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vite,astro,styledcomponents,tailwind,materialui" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ai,ps,figma" /></td>
+  </tr>
+</table><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niico4&show_icons=true&locale=en&layout=compact" alt="niico4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niico4&show_icons=true&locale=en" alt="niico4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niico4&" alt="niico4" /></p>
+<div align="star">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Niico4&theme=react&hide_border=true&border_radius=8&locale=es" alt="readme stats" />
+  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niico4&theme=react&hide_border=true&border_radius=8&include_all_commits=false&count_private=false&layout=compact&locale=es" />
+</div>
