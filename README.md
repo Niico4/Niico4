@@ -10,7 +10,7 @@
 
 <br/>
 <div align="start">
-  <a href="https://portfolio-nicolas-garzon.netlify.app/" >
+  <a href="https://nicolas-garzon.vercel.app/portfolio" >
     <img src="https://img.shields.io/badge/Portfolio-000A5D.svg?&logo=todoist&logoColor=white"  />
   </a>
   <a href="mailto:nicogarzon131@gmail.com">
