@@ -6,7 +6,7 @@
 
 <div>
   <h1>Hola, soy Nicolas</h1>
-  <img align="right" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img align="right" width="450" src="assets/avatar-2.png" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DynaPuff&size=24&duration=4000&pause=300&vCenter=true&width=435&lines=Software+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
   <p align="left">Soy un Desarrollador de Software enfocado en el desarrollo Frontend <i>(React/TypeScript)</i>. Tengo más de 2 años trabajando en proyectos web reales, priorizando la claridad, la funcionalidad y la accesibilidad en cada diseño. Actualmente estoy ampliando mis tecnologías y conocimientos hacia el Backend (<i>Express y Laravel</i>) para poder ofrecer soluciones completas de principio a fin.</p>
   <a href="https://nicolas-garzon.vercel.app/" >
@@ -21,13 +21,12 @@
 </div>
 <hr/>
 
-<h3 align="center">🛠️ Mis Tecnologías y Herramientas</h2>
+<h3 align="start">🛠️ Mis Tecnologías y Herramientas</h2>
 
-<table align="center">
+<table align="start">
   <tr>
     <th>🚀 Stack Principal</th>
     <th>🌐 Frontend</th>
-    <th>🎨 Estilos</th>
   </tr>
   <tr align="center">
     <td>
@@ -44,20 +43,24 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="36" />
       <img src="https://skillicons.dev/icons?i=astro" width="36" />
     </td>
+  </tr>
+
+ 
+</table>
+
+<table align="start" width="100">
+  <tr>
+    <th>🎨 Estilos</th>
+    <th>⚙️ Backend</th>
+    <th>🗄️ Bases de Datos</th>
+  </tr>
+  <tr align="center">
     <td>
       <img src="https://skillicons.dev/icons?i=css" width="36" />
       <img src="https://skillicons.dev/icons?i=tailwind" width="36" />
       <img src="https://skillicons.dev/icons?i=bootstrap" width="36" />
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="36" />
     </td>
-  </tr>
-
-  <tr>
-    <th>⚙️ Backend</th>
-    <th>🗄️ Bases de Datos</th>
-    <th>🧰 Herramientas</th>
-  </tr>
-  <tr align="center">
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs" width="36" />
       <img src="https://skillicons.dev/icons?i=express" width="36" />
@@ -67,18 +70,32 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="36" />
       <img src="https://skillicons.dev/icons?i=postgres" width="36" />
     </td>
+  </tr>
+</table>
+
+<table align="start">
+  <tr>
+    <th>🧰 Herramientas</th>
+    <th>🎨 Diseño UI/UX</th>
+  </tr>
+  <tr align="center">
     <td>
       <img src="https://skillicons.dev/icons?i=vite" width="36" />
       <img src="https://skillicons.dev/icons?i=postman" width="36" />
       <img src="https://skillicons.dev/icons?i=vercel" width="36" />
       <img src="https://skillicons.dev/icons?i=notion" width="36" />
     </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" width="36" />
+      <img src="https://skillicons.dev/icons?i=ps" width="36" />
+      <img src="https://skillicons.dev/icons?i=ai" width="36" />
+    </td>
   </tr>
+</table>
 
+<table align="start" width="100">
   <tr>
     <th>🤝 Colaboración</th>
-    <th>🎨 Diseño UI/UX</th>
-    <th>🧩 Proximamente</th>
   </tr>
   <tr align="center">
     <td>
@@ -89,24 +106,12 @@
       <img src="https://skillicons.dev/icons?i=bash" width="36" />
       <img src="https://skillicons.dev/icons?i=powershell" width="36" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma" width="36" />
-      <img src="https://skillicons.dev/icons?i=ps" width="36" />
-      <img src="https://skillicons.dev/icons?i=ai" width="36" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=laravel" width="36" />
-      <img src="https://skillicons.dev/icons?i=aws" width="36" />
-      <img src="https://skillicons.dev/icons?i=nest" width="36" />
-    </td>
   </tr>
 </table>
 
-
-
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Niico4&theme=react&hide_border=true&border_radius=8&locale=es" alt="readme stats" />
-  <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niico4&theme=react&hide_border=true&border_radius=8&include_all_commits=false&count_private=false&layout=compact&locale=es" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Niico4&theme=material_palenight&hide_border=true&border_radius=8&locale=es" alt="readme stats" />
+  <img width=260 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niico4&theme=material_palenight" />
 </div>
 <br/>
 <p align="center">
