@@ -9,7 +9,7 @@
 └────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/avatar-2.png" alt="Avatar Image" width="30%" />
 </div>
 
@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=07D9C4&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+space!;Frontend+Dev+%7C+UI/UX+Design+%7C+Software+Developer)](https://git.io/typing-svg)
 
-</div>
+</div> -->
 
 ```ts
 // about-me.ts
