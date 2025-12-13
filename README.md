@@ -43,14 +43,11 @@ const dev = {
 └────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
-<div align="center">
+<!-- <div align="center">
   <img width=340 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niico4&theme=material_palenight" />
   <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=niico4&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-</div>
+</div> -->
 
-<br/>
 <hr/>
 
 <div align="center">
